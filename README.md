@@ -42,6 +42,9 @@
 
 <h2>📎Projects: </h2>
 <ul>
+        <li><h3><a href="https://github.com/luoxinnan/Restaurant-system-Java">Restaurant System</a>  </h3>
+            <p>This project is a Java-based restaurant simulation system that utilizes object-oriented programming techniques.</p>
+            </li>
     <li><h3><a href="https://github.com/luoxinnan/Game-Color-Finder">Color finder game</a>  -->  <a href="https://luoxinnan.github.io/Game-Color-Finder/">Live demo</a></h3>
     <p>This is a game of finding a different color created using HTML, CSS, JavaScript, and jQuery.</p>
     </li>
