@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **luoxinnan1@gmail.com**
   
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Uz8RL2uI5BkM0ui6XuooqjbmeQgh8AW-/view?usp=drive_link)
+- 📄 Know about my experiences through [My CV](https://drive.google.com/file/d/1Uz8RL2uI5BkM0ui6XuooqjbmeQgh8AW-/view?usp=drive_link)
 
 - ⚡ Fun fact:  **I bring laugh to the office~**
 
