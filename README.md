@@ -53,7 +53,7 @@
 <h2>📎Projects: </h2>
 <ul>
   <li>
-    <h3><a href="https://github.com/RefLink-GradProject/RefLink-App">RefLink Web Aplication</a> --> <a href="https://youtu.be/P1zePgN86Dc)">Video Demo</a></h3>
+    <h3><a href="https://github.com/RefLink-GradProject/RefLink-App">RefLink Web Aplication</a> --> <a href="https://youtu.be/P1zePgN86Dc)">Video Demo</a>, <a href="https://icy-smoke-0b04e3303.5.azurestaticapps.net/">Live demo</a></h3>
     <p>A reference management platform for employers to obtain honest references directly from candidates' referees, incorporating AI for question generation, transparent reference management, and robust data visualization tools.</p>
 </li>
   <li>
