@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nan 🤩</h1>
-<h4 align="center">I'm a Fullstack developer!</h4>
+<h4 align="center">I'm a .Net Fullstack developer!</h4>
 
 <p align="left">
   <img
