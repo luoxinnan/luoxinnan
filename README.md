@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nan 🤩</h1>
-<h4 align="center">I'm currently a student at the University of Oslo, where I'm majoring in Programming and System Architecture.</h4>
+<h4 align="center">I'm a Fullstack developer! </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luoxinnan&label=Profile%20views&color=0e75b6&style=flat" alt="luoxinnan" /> </p>
 
@@ -17,14 +17,14 @@
 <h3>Back-end</h3>
 <ul>
     <li> C# </li>
-    <li>Python</li>
-    <li>Java</li>
     <li>.NET</li>
-    <li> ASP.NET</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>Node.js</li>
 </ul>
 <h3>Front-end</h3>
 <ul>
-    <li>JavaScript & Node.js</li>
+    <li>JavaScript</li>
     <li>TypeScript</li>
     <li>React</li>
     <li>HTML & CSS</li>
@@ -32,13 +32,16 @@
     <li>Bootstrap</li>
     <li>jQuery</li>
     <li>express</li>
+    <li>Azure</li>
+    <li>Docker</li>
+    <li>Auth0</li>
+    <li>Linux</li>
 </ul>
 <h3>Database</h3>
 <ul>
     <li>PostgreSQL</li>
     <li>Mocrosoft SQL server</li>
     <li>SQLite</li>
-    <li>Docker</li>
 </ul>
 <h3>Other</h3>
 <ul>
